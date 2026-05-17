@@ -1,7 +1,13 @@
 🧠 ResumeAI — Qwen3-4B SLM | Groq-Powered Resume Optimizer
 
-ResumeAI is a lightweight, single-file web app that tailors your resume 
-to any job description in real time using the Groq API (llama-3.3-70b-versatile).
+ResumeAI is a lightweight, deployment-ready web application that demonstrates how a low-cost Small Language Model workflow can deliver practical resume optimization without relying on expensive large-scale inference.
+
+The application allows users to upload a resume in PDF, DOCX, or TXT format, paste a target job description, choose a structured output schema, and instantly generate a tailored JSON response. Built with the Groq API using llama-3.3-70b-versatile for deployment demonstration, the system showcases how resume-job matching, skill extraction, and structured candidate profiling can be automated in a fast, scalable, and recruiter-friendly workflow.
+
+This project was designed to highlight the deployment value of cost-efficient SLM-based systems, proving that practical AI tools can be built with lower inference cost, faster response time, and clear structured outputs suitable for real-world hiring and resume screening use cases.
+
+https://github.com/Techie03/Low-Cost-Resume-Optimization-via-Distillation-of-Large-Language-Model-Behavior-into-a-Fine-Tuned-SLM
+https://techie03.github.io/Low-Cost-Resume-Optimization-via-Distillation-of-Large-Language-Model-Behavior-into-a-Fine-Tuned-SLM/Model_Deployment.html
 
 Upload your resume (PDF, DOCX, or TXT), paste a job description, select 
 a target schema, and get back a structured JSON output — instantly.
