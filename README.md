@@ -7,6 +7,7 @@ The application allows users to upload a resume in PDF, DOCX, or TXT format, pas
 This project was designed to highlight the deployment value of cost-efficient SLM-based systems, proving that practical AI tools can be built with lower inference cost, faster response time, and clear structured outputs suitable for real-world hiring and resume screening use cases.
 
 https://github.com/Techie03/Low-Cost-Resume-Optimization-via-Distillation-of-Large-Language-Model-Behavior-into-a-Fine-Tuned-SLM
+
 https://techie03.github.io/Low-Cost-Resume-Optimization-via-Distillation-of-Large-Language-Model-Behavior-into-a-Fine-Tuned-SLM/Model_Deployment.html
 
 Upload your resume (PDF, DOCX, or TXT), paste a job description, select 
